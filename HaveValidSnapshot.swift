@@ -46,6 +46,7 @@ extension UIView : Snapshotable {
         var snapshotController: FBSnapshotTestController = FBSnapshotTestController(testClass: testCase.dynamicType)
         snapshotController.recordMode = record
         snapshotController.referenceImagesDirectory = referenceDirectory
+        snapshotController.renderAsLayer = true
         
         assert(snapshotController.referenceImagesDirectory != nil, "Missing value for referenceImagesDirectory - Call FBSnapshotTest.setReferenceImagesDirectory(FB_REFERENCE_IMAGE_DIR)")
         
