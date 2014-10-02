@@ -9,4 +9,4 @@
 	url = git@github.com:facebook/ios-snapshot-test-case.git
 [submodule "submodules/ios-snapshot-test-case"]
 	path = submodules/ios-snapshot-test-case
-	url = git@github.com:facebook/ios-snapshot-test-case.git
+	url = https://github.com/AshFurrow/ios-snapshot-test-case.git
