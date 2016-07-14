@@ -24,7 +24,7 @@ EXTERNAL SOURCES:
   Nimble:
     :git: https://github.com/Quick/Nimble.git
   Nimble-Snapshots:
-    :path: "../"
+    :path: ../
   Quick:
     :git: https://github.com/Quick/Quick.git
 
@@ -40,7 +40,7 @@ SPEC CHECKSUMS:
   FBSnapshotTestCase: 918c55861356ee83aee7843d759f55a18ff6982b
   Forgeries: 5564f52841b67b9557119a0eb029311d8b0eb746
   Nimble: 97a0a4cae5124c117115634b2d055d8c97d0af19
-  Nimble-Snapshots: 2da4d2ec829b458d6886c06812c52493fce284c9
+  Nimble-Snapshots: e47cd051d886e5c58593212c7288093aac798e71
   Quick: d61ff037eeb0b01bf53094a6b0c9184111c9e904
 
 PODFILE CHECKSUM: c35b7f36ec359400f2ce93467bf18afdbc6a810f
